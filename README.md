@@ -10,6 +10,7 @@
 
 ## Instructions
 
+
 Many of the spec tests are already passing for this lab, but there are some additional ones –– including our first use of controller tests –– located here:
 
 * **Controller Specs** - `specs/controllers/students_controller_spec.rb`
@@ -34,4 +35,6 @@ Make sure to use a route helper method to redirect to the `show` page at the end
 
 * [Documentation](http://api.rubyonrails.org/classes/ActiveRecord/Persistence/ClassMethods.html)
 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/rails-create-action-lab' title='Create Action Lab'>Create Action Lab</a> on Learn.co and start learning to code for free.</p>
+
